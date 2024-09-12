@@ -53,4 +53,4 @@ The project allows analysis of Olympic data, such as:
 4. Load and query the data in **Synapse**.
 
 ## Preview
-[Uploading Untitled video - Made with Clipchamp.mp4…](https://github.com/user-attachments/assets/e10dccba-78c3-4d9e-bb31-78b58cb25025)
+https://github.com/user-attachments/assets/bb0d6b08-15eb-421f-8288-ecca8ff898cc
